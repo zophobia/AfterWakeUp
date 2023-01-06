@@ -1,4 +1,16 @@
-const images = ["1637069205.jpg","1640008966 (1).jpg","1640008966 (2).jpg","1640008966 (3).jpg","1640008966.jpg","대한민국구석구석_강원_평창_선자령_3840x2160.png","대한민국구석구석_강원_평창_양떼목장_3840x2160.png","대한민국구석구석_대전_소제동_풍뉴가카페_3840x2160.png","대한민국구석구석_전남_보성군_장천리 메타세쿼이아길_3840x2160-min.png","wallpaperbetter.com_3840x2160 (1).jpg","wallpaperbetter.com_3840x2160 (2).jpg","wallpaperbetter.com_3840x2160 (3).jpg","wallpaperbetter.com_3840x2160 (4).jpg","wallpaperbetter.com_3840x2160.jpg"];
+const images = [
+    "anita-austvika-j34IJcOtv9w-unsplash.jpg",
+    "cat-7686662.jpg",
+    "cat-7688749.jpg",
+    "dog-in-the-water-4954173.jpg",
+    "girl-7304385.jpg",
+    "glitter-4916366.jpg",
+    "ph-m-tr-n-hoan-th-nh-WNmzwoAFndI-unsplash.jpg",
+    "simon-spring-qqvlV5WOnls-unsplash.jpg",
+    "snow-7646952.jpg",
+    "sunset-4478981.jpg",
+    "valentin-salmon-d7t9sEKN03c-unsplash.jpg"
+];
 
 const chosenImage = images[Math.floor(Math.random() * images.length)];
 
