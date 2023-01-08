@@ -1,6 +1,4 @@
-.hidden{
-    display: none;
-}
+.hidden{display: none;}
 img {
     position:absolute;
     width:100%;
@@ -10,8 +8,10 @@ img {
     right:0px;
     bottom:0px;
     z-index: -1;
-    opacity:80%;
+    opacity:70%;
     }
-body{
-    text-align: center;
-}
+#greeting{text-align: center;font-family: 'Gowun Dodum', sans-serif;}
+#clock{text-align: center;font-family: 'Gowun Dodum', sans-serif;}
+#todo-form{text-align: center;font-family: 'Gowun Dodum', sans-serif;}
+#quote{text-align: center;position: relative; top: 550px;font-family: 'Gowun Dodum', sans-serif;}
+#weather{text-align: center;position: relative; top: 600px;font-family: 'Gowun Dodum', sans-serif;}
